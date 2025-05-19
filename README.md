@@ -29,7 +29,7 @@ I am Rakibul Islam, a passionate and skilled web designer with over 2 years of e
 ## 🌐 Live Demo
 You can view the live version here:  
 https://rakibian.github.io/rakibian/my-first-html.html
-_(Replace with your actual GitHub Pages URL)_
+
 
 ## 📫 Contact Me
 - 📞 WhatsApp: +8801934358855
