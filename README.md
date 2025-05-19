@@ -1,28 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My First HTML Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        h1 {
-            color: #007BFF;
-        }
-        p {
-            max-width: 600px;
-        }
-    </style>
+    <title>Image Link Example</title>
+    <link rel="stylesheet" href="styles.css"> <!-- External CSS -->
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
-    <p>This is a basic HTML page to help you get started. You can add more elements like images, links, lists, and much more.</p>
+    <a href="https://example.com" target="_blank" class="image-link">
+        <img src="https://via.placeholder.com/300x200" alt="Example Image">
+    </a>
 </body>
 </html>
