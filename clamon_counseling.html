@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clamon Counseling Services</title>
+</head>
+<body style="margin:0;font-family:Arial,sans-serif;background:#f9f9f9;color:#333;">
+
+    <!-- Header -->
+    <div style="background:#fff;box-shadow:0 2px 4px rgba(0,0,0,0.1);padding:20px 0;">
+        <div style="width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;">
+            <div style="font-size:24px;font-weight:bold;">Clamon</div>
+            <div style="display:flex;gap:20px;align-items:center;">
+                <a href="#" style="text-decoration:none;color:#333;">Home</a>
+                <a href="#" style="text-decoration:none;color:#333;">About</a>
+                <a href="#" style="text-decoration:none;color:#333;">Services</a>
+                <a href="#" style="text-decoration:none;color:#333;">Contact</a>
+                <a href="#" style="padding:10px 20px;background:#007BFF;color:#fff;border-radius:5px;text-decoration:none;">Contact Us</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Hero Section -->
+    <div style="background-image:url('https://images.unsplash.com/photo-1557682260-9671b134dd2b');background-size:cover;background-position:center;position:relative;height:400px;">
+        <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.6);">
+            <div style="width:1200px;margin:0 auto;height:100%;display:flex;align-items:center;justify-content:center;">
+                <h1 style="color:#fff;font-size:48px;text-align:center;">Professional Counseling Services</h1>
+            </div>
+        </div>
+    </div>
+
+    <!-- Services Section -->
+    <div style="width:1200px;margin:40px auto;">
+        <h2 style="text-align:center;font-size:32px;margin-bottom:30px;">Our Services</h2>
+        <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px;">
+            <div style="flex:1 1 calc(33% - 20px);background:#fff;padding:20px;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);transition:transform 0.3s;">
+                <h3 style="margin-top:0;">Individual Therapy</h3>
+                <p>Personalized support to help individuals cope with stress, anxiety, and life transitions.</p>
+            </div>
+            <div style="flex:1 1 calc(33% - 20px);background:#fff;padding:20px;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);transition:transform 0.3s;">
+                <h3 style="margin-top:0;">Couples Counseling</h3>
+                <p>Improving communication, conflict resolution, and emotional intimacy in relationships.</p>
+            </div>
+            <div style="flex:1 1 calc(33% - 20px);background:#fff;padding:20px;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);transition:transform 0.3s;">
+                <h3 style="margin-top:0;">Family Therapy</h3>
+                <p>Helping families build stronger connections and resolve conflicts together.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div style="background:#333;color:#fff;padding:20px 0;margin-top:40px;">
+        <div style="width:1200px;margin:0 auto;text-align:center;">
+            &copy; 2025 Clamon Counseling Services. All rights reserved.
+        </div>
+    </div>
+
+    <script>
+        const cards = document.querySelectorAll("div[style*='transition:transform']");
+        cards.forEach(card => {
+            card.addEventListener("mouseover", () => {
+                card.style.transform = "translateY(-10px)";
+            });
+            card.addEventListener("mouseout", () => {
+                card.style.transform = "translateY(0)";
+            });
+        });
+    </script>
+</body>
+</html>
