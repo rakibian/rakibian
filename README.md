@@ -1,3 +1,4 @@
+(https://pbs.twimg.com/profile_banners/1156790065349062656/1672204562/1500x500)
 
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
 <h3 align="center">I’m Rakibul Islam (Rakib), a passionate Web Designer & WordPress (Elementor) Expert with hands-on experience in creating responsive, user-focused, and visually appealing websites. My journey started with a strong curiosity about how design and technology come together to create meaningful user experiences. Over the years, I’ve developed a solid foundation in HTML, CSS, WordPress, and Elementor, along with an understanding of UI/UX principles and SEO-friendly website structures. Currently, I’m working as a Web Developer at Ruwaifi Studio Ltd., where I design and maintain professional websites for various clients. I also enjoy collaborating with teams to transform ideas into functional, high-performing digital platforms that reflect each brand’s identity.</h3>
