@@ -1,6 +1,6 @@
 <!-- GitHub README.md - full-width banner -->
-<a href="https://pbs.twimg.com/profile_banners/1156790065349062656/1672204562/1500x500" target="_blank" rel="noopener">
-  <img src="https://pbs.twimg.com/profile_banners/1156790065349062656/1672204562/1500x500"
+<a href="#" target="_blank" rel="noopener">
+  <img src="[https://pbs.twimg.com/profile_banners/1156790065349062656/1672204562/1500x500](https://mir-s3-cdn-cf.behance.net/9807ca562d511a6463f6f7fe16359123/442e641b-cc71-480a-862d-4511cebab67b_rwc_0x40x1584x221x1584.png?h=da96c62c3d52699e1891e924d96b5f23)"
        alt="Rakib Banner"
 </a>
 
